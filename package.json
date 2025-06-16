@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-pro",
+  "version": "1.0.0",
+  "description": "nodejs pro",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giabao11082005/nodejs-tutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": {
+    "name": "Hoang Gia Bao",
+    "email": "hoanggiabao11082005@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giabao11082005/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/Giabao11082005/nodejs-tutorial#readme"
+}
