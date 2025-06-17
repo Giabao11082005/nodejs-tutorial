@@ -26,5 +26,10 @@
   "homepage": "https://github.com/Giabao11082005/nodejs-tutorial#readme",
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "5.0.3",
+    "@types/node": "24.0.3",
+    "typescript": "5.8.3"
   }
 }
