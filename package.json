@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Giabao11082005/nodejs-tutorial/issues"
   },
-  "homepage": "https://github.com/Giabao11082005/nodejs-tutorial#readme"
+  "homepage": "https://github.com/Giabao11082005/nodejs-tutorial#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
